@@ -3,8 +3,7 @@ name: Module Test Pipeline
 on:
   push:
     branches:
-      - dev*
-      - v*
+      - main
 
 jobs:
   test:
