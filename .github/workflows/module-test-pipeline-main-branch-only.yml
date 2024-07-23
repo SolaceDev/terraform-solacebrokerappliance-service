@@ -1,4 +1,4 @@
-name: Module Test Pipeline
+name: Module Test Pipeline - Main Branch Only
 
 on:
   push:

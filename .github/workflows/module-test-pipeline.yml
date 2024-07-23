@@ -1,4 +1,4 @@
-name: Module Test Pipeline
+name: Module Test Pipeline - Development Branches
 
 on:
   push:

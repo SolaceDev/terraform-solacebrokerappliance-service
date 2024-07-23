@@ -1,4 +1,4 @@
-name: Module Test Pipeline
+name: New broker build Module Test
 
 on:
   push:
